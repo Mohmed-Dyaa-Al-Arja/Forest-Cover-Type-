@@ -1,0 +1,8 @@
+📂 Kaggle Notebook / Project Files
+
+https://www.kaggle.com/code/mohmeddyaa/forest-cover-type-dataset
+
+📊 Dataset used: Forest Cover Type (UCI)
+
+https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+
